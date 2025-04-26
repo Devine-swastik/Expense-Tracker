@@ -2,7 +2,7 @@
 
 A simple and modern web application that helps you track and manage your daily expenses. Built using **HTML**, **CSS**, and **JavaScript**. This app allows users to easily add and remove expenses, view the total amount spent, and manage their finances with ease.
 
-![Expense Tracker Demo](images/expense-tracker-demo.png)
+![Expense Tracker Demo]([images/expense-tracker-demo.png](https://github.com/Devine-swastik/Expense-Tracker/blob/main/images/expense-tracker-demo.jpg))
 
 ## ✨ Features
 
