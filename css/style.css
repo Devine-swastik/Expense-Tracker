@@ -3,8 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-}
+    font-family: 'Poppins', sans-serif;}
 
 body {
     background: #f3f4f6;
@@ -12,8 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-}
+    min-height: 100vh;}
 
 .container {
     background: #ffffff;
@@ -22,21 +20,18 @@ body {
     box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
     max-width: 400px;
     width: 100%;
-    text-align: center;
-}
+    text-align: center;}
 
 header h1 {
     font-size: 36px;
     color: #4e73df;
     margin-bottom: 10px;
-    font-weight: 600;
-}
+    font-weight: 600;}
 
 header p {
     font-size: 18px;
     color: #777;
-    margin-bottom: 20px;
-}
+    margin-bottom: 20px;}
 
 input, button {
     width: 90%;
@@ -44,12 +39,10 @@ input, button {
     margin: 10px 0;
     border-radius: 8px;
     border: 1px solid #ccc;
-    font-size: 16px;
-}
+    font-size: 16px;}
 
 input {
-    background-color: #f9f9f9;
-}
+    background-color: #f9f9f9;}
 
 button {
     background-color: #4e73df;
@@ -57,19 +50,16 @@ button {
     border: none;
     cursor: pointer;
     font-weight: bold;
-    transition: all 0.3s ease;
-}
+    transition: all 0.3s ease;}
 
 button:hover {
     background-color: #2e59d9;
-    transform: scale(1.05);
-}
+    transform: scale(1.05);}
 
 ul {
     list-style-type: none;
     margin: 20px 0;
-    padding: 0;
-}
+    padding: 0;}
 
 li {
     background: #f1f1f1;
@@ -79,8 +69,7 @@ li {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
-    font-size: 16px;
-}
+    font-size: 16px;}
 
 li button {
     background-color: #e74a3b;
@@ -89,16 +78,13 @@ li button {
     border-radius: 6px;
     padding: 5px 10px;
     cursor: pointer;
-    transition: all 0.3s ease;
-}
+    transition: all 0.3s ease;}
 
 li button:hover {
     background-color: #c0392b;
-    transform: scale(1.1);
-}
+    transform: scale(1.1);}
 
 .total h3 {
     font-size: 20px;
     font-weight: 600;
-    color: #4e73df;
-}
+    color: #4e73df;}
